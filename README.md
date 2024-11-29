@@ -33,6 +33,6 @@ sudo reboot
 
 After reboot log in again and paste this:
 ```
-mkdir ~/repos && cd ~/repos && git clone https://github.com/PhilippCo/meas_rpi.git && meas_rpi/install.sh
+mkdir ~/repos && cd ~/repos && git clone https://github.com/tobiasfalk/meas_rpi.git && meas_rpi/install.sh
 ```  
 
